@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/xyzreader.iml" filepath="$PROJECT_DIR$/xyzreader.iml" />
-      <module fileurl="file://E:\AndroidStudioProjects\xyzreader\xyzreader.iml" filepath="E:\AndroidStudioProjects\xyzreader\xyzreader.iml" />
       <module fileurl="file://H:\Android Studio Projects\xyzreader\.idea\xyzreader.iml" filepath="H:\Android Studio Projects\xyzreader\.idea\xyzreader.iml" />
     </modules>
   </component>
